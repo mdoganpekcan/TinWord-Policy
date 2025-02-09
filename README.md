@@ -1,7 +1,7 @@
 # Privacy Policy for TinWord: Türkçe Kelime Oyunu
 
 ## Introduction
-This privacy policy describes how we collect, use, and share information when you use our mobile game "Vet Story: Animal Care Game". By downloading and using the game, you agree to the collection and use of information in accordance with this policy.
+This privacy policy describes how we collect, use, and share information when you use our mobile game "TinWord: Türkçe Kelime Oyunu". By downloading and using the game, you agree to the collection and use of information in accordance with this policy.
 
 ## Information Collection and Use
 Our game collects certain information to provide and improve our service. The types of data we may collect include:
